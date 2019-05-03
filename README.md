@@ -26,7 +26,7 @@
 <!--Group Members-->
 ## Group Members
 
-|<img src="img/mem1.jpg" width="150px" height="120px">|<img src="img/mem2.jpg" width="120px" height="120px">|<img src="img/" width="120px" height="120px">|<img src="img/mem4.jpg" width="120px" height="120px">|
+|<img src="img/mem1.jpg" width="150px" height="120px">|<img src="img/mem2.jpg" width="120px" height="120px">|<img src="img/" width="120px" height="120px">|<img src="img/mem4.jpg" width="100px" height="120px">|
 |:---:|:---:|:---:|:---:|
 |[ddessertt](https://github.com/ddessertt)|[johntnw](https://github.com/johntnw)|[gearprn](https://github.com/gearprn)|[Vacharavat](https://github.com/Vacharavat)|
   |Natthaphat Kongthong<br>นางสาว ณัฏฐพัชร กองทอง|Thanawat Wongsud<br>นาย ธนวัฒน์ วงษ์สุด|Purinut Uomrod<br>นาย ภูริณัฐ อ่วมรอด|Vacharavat Kesbuntherng<br>นาย วชรวรรษ เกษบรรเทิง|
