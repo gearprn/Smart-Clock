@@ -60,7 +60,7 @@
 <p><img src="img/poster.jpg" alt="" style="max-width:100%;"></p>
 
 # Video
-[![Watch the video](https://img.youtube.com/vi/drSTCwKjHcs/maxresdefault.jpg)](https://www.youtube.com/watch?v=drSTCwKjHcs)
+[![Watch the video](https://img.youtube.com/vi/drSTCwKjHcs/hqdefault.jpg)](https://www.youtube.com/watch?v=drSTCwKjHcs)
 
 <!--Group Members-->
 ## Group Members
