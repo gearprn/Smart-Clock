@@ -60,7 +60,7 @@
 <p><img src="img/poster.jpg" alt="" style="max-width:100%;"></p>
 
 # Video
-กำลังอัพอยู่ครับ
+[![Watch the video](https://img.youtube.com/vi/drSTCwKjHcs/maxresdefault.jpg)](https://www.youtube.com/watch?v=drSTCwKjHcs)
 
 <!--Group Members-->
 ## Group Members
