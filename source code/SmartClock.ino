@@ -183,7 +183,7 @@ void loop() {
     current_minute = minute(unix_epoch);
     sit_time = current_minute - start_minute;
 
-    if ((sit_time == 1 && alert_status == 0) || (sit_time == -45 && alert_status == 0)) {
+    if ((sit_time == 15 && alert_status == 0) || (sit_time == -45 && alert_status == 0)) {
       drink(); // sit for 15 min so alert user to go drink water
       alert_minute = minute_;
       alert_status = 1;
